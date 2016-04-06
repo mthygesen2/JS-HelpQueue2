@@ -1,7 +1,7 @@
 # Help-queue
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application is a replica of the help queue at Epicodus.  It has the user(student) and teacher routes that will direct you to the information each type of user will need. You will be able to submit a question you have for a teacher and be put into the queue, the user can also delete their ticket while they are waiting if they have answered their own question.  The teacher will be able to see how long you have been waiting and close a ticket after they have helped you. 
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone <https://github.com/mthygesen2/JS-HelpQueue2.git>` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
@@ -39,9 +39,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
