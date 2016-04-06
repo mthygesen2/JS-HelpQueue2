@@ -50,6 +50,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2016 **_{Mao Thygesen}_**
+Copyright (c) 2016 **_Mao Thygesen_**
