@@ -1,6 +1,6 @@
 # Help-queue
+### By: Mao Thygesen and Jeff Seymour 
 
-This README outlines the details of collaborating on this Ember application.
 This application is a replica of the help queue at Epicodus.  It has the user(student) and teacher routes that will direct you to the information each type of user will need. You will be able to submit a question you have for a teacher and be put into the queue, the user can also delete their ticket while they are waiting if they have answered their own question.  The teacher will be able to see how long you have been waiting and close a ticket after they have helped you. 
 
 ## Prerequisites
@@ -52,4 +52,4 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 *MIT*
 
-Copyright (c) 2016 **_Mao Thygesen_**
+Copyright (c) 2016 ** Mao Thygesen and Jeff Seymour **
